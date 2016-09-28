@@ -9,6 +9,7 @@
     "token":   {
       "secret":    "JX5jJGPgeZ57lUUTdkrSTlm2CMDeQylgc1htgt0GvVujoHP4Q6oHVwJEPH4eCFyvpzZvC1E90qwAQJCi1dcZFA=="
     },
-    "local":        {}
+    "local":        {},
+    "successRedirect": "/hi.html"
   }
 }
