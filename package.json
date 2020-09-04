@@ -36,7 +36,7 @@
     "feathers-socketio": "^1.4.1",
     "mysql": "^2.11.1",
     "passport": "^0.3.2",
-    "sequelize": "^3.24.3",
+    "sequelize": "^6.3.5",
     "serve-favicon": "^2.3.0",
     "winston": "^2.2.0"
   },
@@ -44,7 +44,7 @@
     "jshint": "^2.9.3",
     "mocha": "^3.0.2",
     "request": "^2.75.0",
-    "sequelize": "^3.24.3",
+    "sequelize": "^6.3.5",
     "sequelize-cli": "^2.4.0"
   }
 }
